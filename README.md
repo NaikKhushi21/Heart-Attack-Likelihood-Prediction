@@ -1,7 +1,5 @@
 # **Evaluation Report: Predicting Heart Attack Likelihood**
 
-## Name: Khushi Naik
-
 ## **1\. Introduction**
 
 The models explored include:
